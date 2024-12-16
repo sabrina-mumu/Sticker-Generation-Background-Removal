@@ -1,11 +1,6 @@
 # From Image to BG_Remove & Sticker_Generation
 ## About:
--This project contains the api BG_Remove & Sticker_Generation_ 
-Files_(sticker.py,
-sticker_api.py,
-sticker_file_operation.py,
-requirements.txt,
-README.md, .gitignore)
+- This project contains the api BG_Remove & Sticker_Generation
 
 ## Steps:
 ### Install necessary plugins
