@@ -11,9 +11,9 @@
 	- For Unix `source .venv/bin/activate`
  - Download and install the necessary files  `pip install -r requirements.txt`
 
- - Download Files_ 1.[yolov8n.pt](https://drive.google.com/file/d/1AK5o-PW-RDwN8wrxHVphsHM0mabLTRzf/view?usp=sharing)(Obj_Detection), 
-
- 2. [sam_vit_h_4b8939.pth](https://drive.google.com/file/d/1D4xlCWtZkoWKxWVcQf9qj9Kx4-If0NE-/view?usp=sharing)(For_Masking)
+ - Download Files
+ -  1. [yolov8n.pt](https://drive.google.com/file/d/1AK5o-PW-RDwN8wrxHVphsHM0mabLTRzf/view?usp=sharing)(Obj_Detection),
+ -  2. [sam_vit_h_4b8939.pth](https://drive.google.com/file/d/1D4xlCWtZkoWKxWVcQf9qj9Kx4-If0NE-/view?usp=sharing)(For_Masking)
 
 
  ### Run the server
