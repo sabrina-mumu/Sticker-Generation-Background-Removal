@@ -1,4 +1,10 @@
 # From Image to BG_Remove & Sticker_Generation
+## Overview:
+- This project develops the process of removing the background of an image using SAM and YOLOv8
+- The YOLOv8 detects the object and SAM masks it and removes other things
+- Then, edge sharpening is applied
+- A white border is added for the sticker
+
 ## About:
 - This project contains the api BG_Remove & Sticker_Generation
 
